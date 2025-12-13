@@ -10,10 +10,12 @@
 Techstack 
 
 React 
+
+
 Css
 
 
-using netify i have deployed myportfolio website
+ Using netify I have deployed myportfolio website
 
 
 https://mahascodehubportfolio.netlify.app/
