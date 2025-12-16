@@ -19,7 +19,8 @@ CSS – Styling and responsive design
 
 🌍 Live Demo
 
-🔗 Portfolio: View My Portfolio
+### 🌐 Portfolio
+👉 [View My Portfolio](https://mahascodehubportfolio.netlify.app/)
 
 
 ---
@@ -60,7 +61,7 @@ Fast and lightweight React application
 📌 How to Run Locally
 
 # Clone the repository
-git clone https://github.com/your/your-repo-name.git
+https://github.com/maha-codehub/portfolio.git
 
 # Navigate to the project directory
 cd your-repo-name
