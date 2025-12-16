@@ -28,10 +28,20 @@ CSS – Styling and responsive design
 📂 Project Structure
 
 ├── public
+
+
 ├── src
+
+
 ├── .gitignore
+
+
 ├── package.json
+
+
 ├── package-lock.json
+
+
 └── README.md
 
 
